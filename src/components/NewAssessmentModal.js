@@ -73,7 +73,7 @@ const NewAssessmentModal = () => {
           </label>
 
           <select
-            className="border rounded-xl h-10 p-4"
+            className="border rounded-xl h-14 p-4"
             id="purpose"
             value={form.purpose}
             onChange={handleInputChange}
