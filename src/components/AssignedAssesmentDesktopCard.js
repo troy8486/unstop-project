@@ -20,7 +20,7 @@ const AssignedAssesmentDesktopCard = ({ assessment }) => {
       </div>
 
       <div>
-        <h1 className="text-2xl text-sky-900 font-semibold mx-4">
+        <h1 className="text-2xl text-sky-900 font-semibold mx-4 mt-2">
           {assessment.name}
         </h1>
 
